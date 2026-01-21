@@ -12,8 +12,7 @@ import GalleryV3 from './components/GalleryV3';
 import DonationPage2 from './components/DonationPage2.jsx';
 function App() {
   return (
-    <div className="app">
-      <BrowserRouter>
+      <BrowserRouter basename="/radhaKrishnaVillage">
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -25,7 +24,6 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
-    </div>
   );
 }
 
