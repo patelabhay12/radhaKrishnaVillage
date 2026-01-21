@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/radhaKrishnaVillage/static/css/main.04aa1f48.css",
-    "main.js": "/radhaKrishnaVillage/static/js/main.e2bb62d8.js",
+    "main.js": "/radhaKrishnaVillage/static/js/main.3ff3bd03.js",
     "static/media/कृष्ण भवना मृत में पहला कदम.pdf": "/radhaKrishnaVillage/static/media/कृष्ण भवना मृत में पहला कदम.a18d5992fc56c67046fa.pdf",
     "static/media/आत्म साक्षात्कार का विज्ञान.pdf": "/radhaKrishnaVillage/static/media/आत्म साक्षात्कार का विज्ञान.ed1bf64191d4ef4f4f0a.pdf",
     "static/media/कृष्ण की ओर On the way to Krishna.pdf": "/radhaKrishnaVillage/static/media/कृष्ण की ओर On the way to Krishna.d97fcce79a8bb330d6c8.pdf",
@@ -33,10 +33,10 @@
     "static/media/QRCode.jpg": "/radhaKrishnaVillage/static/media/QRCode.c678f6039bfc2c2fef34.jpg",
     "index.html": "/radhaKrishnaVillage/index.html",
     "main.04aa1f48.css.map": "/radhaKrishnaVillage/static/css/main.04aa1f48.css.map",
-    "main.e2bb62d8.js.map": "/radhaKrishnaVillage/static/js/main.e2bb62d8.js.map"
+    "main.3ff3bd03.js.map": "/radhaKrishnaVillage/static/js/main.3ff3bd03.js.map"
   },
   "entrypoints": [
     "static/css/main.04aa1f48.css",
-    "static/js/main.e2bb62d8.js"
+    "static/js/main.3ff3bd03.js"
   ]
 }
